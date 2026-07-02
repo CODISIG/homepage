@@ -118,11 +118,11 @@
     align-content:center;
 }
 .info-icon {
-    font-size: clamp(1rem, 2vw, 3rem);
+    font-size: 100%;
     margin-bottom:auto;
 }
 .info-text {
     margin-bottom:auto;
     font-family:'Arial Narrow Bold';
-    font-size: clamp(1rem, 2vw, 3rem);
+    font-size: 100%;
 }
