@@ -41,7 +41,7 @@
     max-width: 100%;
     margin: auto;
     padding:0%;
-    color:transparent;
+    background-image: url(./Images/back.png);
 }
 .actions-container {
     display: flex;
