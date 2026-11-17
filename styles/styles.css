@@ -8,10 +8,10 @@
     justify-content:center;
     margin: auto;
     margin-bottom: auto;
-    border-radius: 15px;
+    border-radius:10%;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
     color: black;
-    width: 100%;
+    width: 99%;
 }
 
 /* GENERADO CON CHATGPT */
@@ -23,7 +23,7 @@
     width: auto;
     justify-content: center;
     height: 90%;
-    padding: 1%;
+    padding: 0%;
 }
 
 .logos-header {
@@ -39,15 +39,16 @@
 .dashboard-container {
     max-width: 100%;
     margin: auto;
-    padding:0%;
+    padding:1%;
     background-image: url(./Images/back.png);
 }
 .actions-container {
     display: flex;
-    gap: 5%;
+    gap: 3%;
     justify-content: center;
     color:transparent;
     width: 100%;
+    padding: 1%;
 }
 .action-card {
     background: white;
@@ -58,7 +59,7 @@
     transition: all 0.3s;
     border: 1px solid #000000;
     margin-bottom:0.5rem;
-    margin: 2;
+    margin:;
     width: 37%;
     display: grid;
     justify-content: space-between;
@@ -85,6 +86,7 @@
     margin-bottom: 1rem;
     line-height:1.5;
     width: 100%;
+    min-height:auto;
 }
 .action-btn{
     background: linear-gradient(135deg, rgb(105,27,79) 0%, rgb(169,49,81) 50%, rgb(105,27,79) 100%);
